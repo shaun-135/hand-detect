@@ -2,7 +2,7 @@ This program only works under python 3.11, please check your python version befo
 
 Type 'pip install -r requirements.txt' in terminal to install the dependencies.
 
-run 'app.py' to open the hand-tracking window.
+run `app.py` to open the hand-tracking window.
 
 Copy `blender_receiver.py` into Blender's scripting editor and run it.
 
